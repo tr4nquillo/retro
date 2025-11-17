@@ -1,2 +1,2 @@
 # retro
-Containing examples of solutions to specific problems I had.
+Contains examples of solutions to specific problems I had.
